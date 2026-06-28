@@ -305,6 +305,12 @@ Output defaults to `os.getcwd()` — the directory where you launched the script
 
 ---
 
+## Acknowledgments
+
+This project is based on and heavily inspired by **[GAO-pooh/paper-scraper](https://github.com/GAO-pooh/paper-scraper)** — the original ScienceDirect & INFORMS scraper for macOS. We are grateful for their pioneering work, which provided the foundation for the cross-platform adaptation, CDP-based Cloudflare bypass, and four-layer auto-fallback strategy implemented here.
+
+---
+
 ## License
 
 MIT

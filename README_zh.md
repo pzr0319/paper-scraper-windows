@@ -305,6 +305,12 @@ python informs_scraper.py -m keyword -q "inventory" -n 30 --member 123456 --pass
 
 ---
 
+## 致谢
+
+本项目基于并深受 **[GAO-pooh/paper-scraper](https://github.com/GAO-pooh/paper-scraper)** 的启发——这是最初的 ScienceDirect 和 INFORMS macOS 爬虫项目。感谢他们的开创性工作，为本项目的跨平台适配、CDP 绕过 Cloudflare 以及四层自动降级策略奠定了基础。
+
+---
+
 ## 开源协议
 
 MIT
